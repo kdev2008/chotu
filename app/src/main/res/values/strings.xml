@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chotu</string>
+    <string name="accessibility_desc">Chotu को दूसरे ऐप्स की स्क्रीन पढ़ने और टैप/टाइप करने देता है। यह सिर्फ़ तब काम करता है जब आप Chotu को कोई काम देते हैं। पासवर्ड फ़ील्ड कभी नहीं पढ़े जाते।</string>
+</resources>
